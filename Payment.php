@@ -42,7 +42,7 @@
 
                     </div>
                     <!-- table payment -->
-                    <?php include ("page/table_payment.php");?>
+                    <?php include ("page/payment-table.php");?>
                     <!-- / .table payment -->
                 </div>
             </div>
